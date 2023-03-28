@@ -1,0 +1,38 @@
+switchboard 301
+trunkline 301 240
+trunkline 301 555
+phone_num 301 3
+switchboard 240
+trunkline 240 301
+trunkline 240 555
+phone_num 240 2
+switchboard 555
+trunkline 555 240
+trunkline 555 301
+trunkline 555 6
+trunkline 555 7
+switchboard 6
+trunkline 6 555
+trunkline 6 8
+trunkline 6 9
+switchboard 8
+trunkline 8 6
+trunkline 8 9
+switchboard 9
+trunkline 9 8
+trunkline 9 6
+phone_num 9 1
+switchboard 7
+trunkline 7 555
+trunkline 7 4
+trunkline 7 1
+switchboard 4
+trunkline 4 7
+trunkline 4 77
+switchboard 1
+trunkline 1 77
+trunkline 1 7
+phone_num 1 5
+switchboard 77
+trunkline 77 4
+trunkline 77 1

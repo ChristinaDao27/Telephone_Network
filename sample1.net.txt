@@ -1,0 +1,6 @@
+switchboard 301
+trunkline 301 443
+phone_num 301 1
+switchboard 443
+trunkline 443 301
+phone_num 443 2
